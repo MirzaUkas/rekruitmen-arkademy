@@ -1,0 +1,1 @@
+SELECT cat.id,cat.name, count(p.category_id) as jumlah_product from product_categories AS cat left join products AS p on (cat.id = p.category_id) group by cat.id
