@@ -18,4 +18,11 @@ Langkah-langkah membuka project
 4. Pastikan internet anda menyala untuk tampilan yang lebih baik
 5. Buka file main.php di browser anda menggunakan lokal server seperti xampp atau sejenisnya
 
+### Mobile Aplikasi
+Terdapat aplikasi android yang berisi kelima penyelesaian soal
+untuk source code bisa dilihat di https://github.com/MirzaUkas/rekruitmen-mobile
+1. Download dan install rekrutmen.apk di device android atau emulator
+2. Pilih soal yang akan dibuka
+3. Masukkan inputan dan tekan button submit untuk melihat output 
+
 
