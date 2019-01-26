@@ -20,8 +20,8 @@ Langkah-langkah membuka project
 
 ### Mobile Aplikasi
 Terdapat aplikasi android yang berisi kelima penyelesaian soal
-untuk aplikasi bisa di download di https://drive.google.com/file/d/141h1YllLyj7dTyGoHI-b5h2yYrndi0Vt/view?usp=sharing
-untuk source code bisa dilihat di https://github.com/MirzaUkas/rekruitmen-mobile
+## untuk aplikasi bisa di download di https://drive.google.com/file/d/141h1YllLyj7dTyGoHI-b5h2yYrndi0Vt/view?usp=sharing
+## untuk source code bisa dilihat di https://github.com/MirzaUkas/rekruitmen-mobile
 1. Download dan install rekrutmen.apk di device android atau emulator
 2. Pilih soal yang akan dibuka
 3. Masukkan inputan dan tekan button submit untuk melihat output 
